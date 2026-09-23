@@ -1,0 +1,4 @@
+LAB 7 LOGBOOK-Vaibhav Tripathi-E26B07F0552
+SETUP: clang version 21.0.0 python3 version 3.14.6
+T1: running hello.py created 1 new files
+T1 prediction: ./hello.c will show permission denied and python3 hello.c will give SyntaxError: invalid syntax

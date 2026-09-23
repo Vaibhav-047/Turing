@@ -1,0 +1,13 @@
+LAB 6 LOGBOOK - Vaibhav - 100
+SETUP: my working directory is LOGBOOK
+T1 prediction: I think ls / will show about 5 items
+T1: /bin holds 9 items
+T1: /dev holds 10
+T1: / means root directory , ~ means home , . means current folder
+T1: the OS groups files by data type
+T2 prediction: ./deploy will run  because the command executed successfully
+T2 prediction: appending after u-w will remove write permission from owner  because of the subtract sign
+T2: -rw-r--r-- written in numbers is 644
+T2: ./deploy failed at first because it didnt have executable permission
+T2: the new policy needed chmod to add the permissions
+-rwx---r--  1 vaibhavtripathi  staff  36  9 Sep 12:08 deploy
